@@ -1,14 +1,13 @@
-# DungeonSlayer
+# RocketKnight
 Yolo-coded game with ECS-pattern.
 
 ## Gameplay
-Small and quite simple arcade. The main point of game is to ramble around castle and kill dangerous(not really) zombies as much as possible.
+A small game about a knight and modern technology, accompanied by a cloud of annoying bats.
 ## Control
 Here is player control help-note
 ```
 W,A,S,D - to move;
 SPACE - to attack;
-Right CTRL - to dash;
 F12 - debug mode
 ```
 ## Footage
